@@ -7,7 +7,7 @@ OpenDataDay2015
 
 ## Dates
 
-Saturday, February 22nd, 2015
+Saturday, February 21st, 2015
 
 ## Place
 
