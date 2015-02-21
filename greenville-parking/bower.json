@@ -1,0 +1,27 @@
+{
+  "name": "greenville-parking",
+  "version": "0.0.1",
+  "homepage": "https://github.com/OpenUpstate/OpenDataDay2015",
+  "authors": [
+    "Matthew Cuyar <matt@enctypeapparel.com>",
+    "Steven Wade <stevenwadejr@gmail.com>"
+  ],
+  "description": "Data for paking in Greenville, SC",
+  "main": "index.html",
+  "keywords": [
+    "greenville",
+    "parking",
+    "sc"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "sheetsee": ">= 1.0.0"
+  }
+}
