@@ -12,6 +12,8 @@
         ]
       },
       "properties": {
+        "marker-color": "#0080c0",
+        "marker-symbol": "bicycle",
         "name": "City Hall",
         "styleUrl": "#icon-22",
         "styleHash": "-40f3a449",
@@ -29,6 +31,8 @@
         ]
       },
       "properties": {
+        "marker-color": "#0080c0",
+        "marker-symbol": "bicycle",
         "name": "Request- City Hall",
         "styleUrl": "#icon-123",
         "styleHash": "-3662a8b9",
@@ -46,6 +50,9 @@
         ]
       },
       "properties": {
+        "marker-color": "#0080c0",
+        "marker-size": "medium",
+        "marker-symbol": "bicycle",
         "name": "NW corner Main/College",
         "styleUrl": "#icon-22",
         "styleHash": "-40f3a449",
@@ -63,6 +70,8 @@
         ]
       },
       "properties": {
+        "marker-color": "#0080c0",
+        "marker-symbol": "bicycle",
         "name": "Coffee Underground",
         "styleUrl": "#icon-22",
         "styleHash": "-40f3a449",
@@ -80,6 +89,8 @@
         ]
       },
       "properties": {
+        "marker-color": "#0080c0",
+        "marker-symbol": "bicycle",
         "name": "NE corner Main/Washington",
         "styleUrl": "#icon-22",
         "styleHash": "-40f3a449",
@@ -97,6 +108,8 @@
         ]
       },
       "properties": {
+        "marker-color": "#0080c0",
+        "marker-symbol": "bicycle",
         "name": "Sushi Murisaki (side of)",
         "styleUrl": "#icon-22",
         "styleHash": "-40f3a449",
@@ -114,6 +127,8 @@
         ]
       },
       "properties": {
+        "marker-color": "#0080c0",
+        "marker-symbol": "bicycle",
         "name": "Barley's Taproom",
         "styleUrl": "#icon-22",
         "styleHash": "-40f3a449",
@@ -131,6 +146,8 @@
         ]
       },
       "properties": {
+        "marker-color": "#0080c0",
+        "marker-symbol": "bicycle",
         "name": "NW corner of Main/McBee",
         "styleUrl": "#icon-169",
         "styleHash": "-b6e557b",
@@ -148,6 +165,8 @@
         ]
       },
       "properties": {
+        "marker-color": "#0080c0",
+        "marker-symbol": "bicycle",
         "name": "Jimmy John's Subs",
         "styleUrl": "#icon-22",
         "styleHash": "-40f3a449",
@@ -165,6 +184,8 @@
         ]
       },
       "properties": {
+        "marker-color": "#0080c0",
+        "marker-symbol": "bicycle",
         "name": "Connolly's Irish Pub",
         "styleUrl": "#icon-22",
         "styleHash": "-40f3a449",
@@ -182,6 +203,8 @@
         ]
       },
       "properties": {
+        "marker-color": "#0080c0",
+        "marker-symbol": "bicycle",
         "name": "Greenville News/ Main Street",
         "styleUrl": "#icon-22",
         "styleHash": "-40f3a449",
@@ -199,6 +222,8 @@
         ]
       },
       "properties": {
+        "marker-color": "#0080c0",
+        "marker-symbol": "bicycle",
         "name": "Michellin on Main",
         "styleUrl": "#icon-22",
         "styleHash": "-40f3a449",
@@ -216,6 +241,8 @@
         ]
       },
       "properties": {
+        "marker-color": "#0080c0",
+        "marker-symbol": "bicycle",
         "name": "Spill the Beans",
         "styleUrl": "#icon-22",
         "styleHash": "-40f3a449",
@@ -233,6 +260,8 @@
         ]
       },
       "properties": {
+        "marker-color": "#0080c0",
+        "marker-symbol": "bicycle",
         "name": "Main Street/ Falls Park",
         "styleUrl": "#icon-22",
         "styleHash": "-40f3a449",
@@ -250,6 +279,8 @@
         ]
       },
       "properties": {
+        "marker-color": "#0080c0",
+        "marker-symbol": "bicycle",
         "name": "Main Street",
         "styleUrl": "#icon-22",
         "styleHash": "-40f3a449",
@@ -267,6 +298,8 @@
         ]
       },
       "properties": {
+        "marker-color": "#0080c0",
+        "marker-symbol": "bicycle",
         "name": "Flour Field/ Greenville Drive",
         "styleUrl": "#icon-22",
         "styleHash": "-40f3a449",
@@ -284,6 +317,8 @@
         ]
       },
       "properties": {
+        "marker-color": "#0080c0",
+        "marker-symbol": "bicycle",
         "name": "Flour Field/ Greenville Drive",
         "styleUrl": "#icon-22",
         "styleHash": "-40f3a449",
@@ -301,6 +336,8 @@
         ]
       },
       "properties": {
+        "marker-color": "#0080c0",
+        "marker-symbol": "bicycle",
         "name": "Hot Dog King",
         "styleUrl": "#icon-22",
         "styleHash": "-40f3a449",
@@ -318,6 +355,8 @@
         ]
       },
       "properties": {
+        "marker-color": "#0080c0",
+        "marker-symbol": "bicycle",
         "name": "Cook's Station/ Smoke on the Water",
         "styleUrl": "#icon-22",
         "styleHash": "-40f3a449",
@@ -335,6 +374,8 @@
         ]
       },
       "properties": {
+        "marker-color": "#0080c0",
+        "marker-symbol": "bicycle",
         "name": "Mast General Store",
         "styleUrl": "#icon-22",
         "styleHash": "-40f3a449",
@@ -352,6 +393,8 @@
         ]
       },
       "properties": {
+        "marker-color": "#0080c0",
+        "marker-symbol": "bicycle",
         "name": "TTR Bikes",
         "styleUrl": "#icon-22",
         "styleHash": "-40f3a449",
@@ -369,6 +412,8 @@
         ]
       },
       "properties": {
+        "marker-color": "#0080c0",
+        "marker-symbol": "bicycle",
         "name": "Carolina Triathalon",
         "styleUrl": "#icon-22",
         "styleHash": "-40f3a449",
@@ -386,6 +431,8 @@
         ]
       },
       "properties": {
+        "marker-color": "#0080c0",
+        "marker-symbol": "bicycle",
         "name": "Old Rail Station",
         "styleUrl": "#icon-22",
         "styleHash": "-40f3a449",
@@ -403,6 +450,8 @@
         ]
       },
       "properties": {
+        "marker-color": "#0080c0",
+        "marker-symbol": "bicycle",
         "name": "Simpsonville Library",
         "styleUrl": "#icon-22",
         "styleHash": "-40f3a449",
@@ -420,6 +469,8 @@
         ]
       },
       "properties": {
+        "marker-color": "#0080c0",
+        "marker-symbol": "bicycle",
         "name": "Target/Starbucks",
         "styleUrl": "#icon-22",
         "styleHash": "-40f3a449",
@@ -437,6 +488,8 @@
         ]
       },
       "properties": {
+        "marker-color": "#0080c0",
+        "marker-symbol": "bicycle",
         "name": "Whole Foods",
         "styleUrl": "#icon-22",
         "styleHash": "-40f3a449",
@@ -454,6 +507,8 @@
         ]
       },
       "properties": {
+        "marker-color": "#0080c0",
+        "marker-symbol": "bicycle",
         "name": "Simpsonville Park",
         "styleUrl": "#icon-22",
         "styleHash": "-40f3a449",
@@ -471,6 +526,8 @@
         ]
       },
       "properties": {
+        "marker-color": "#0080c0",
+        "marker-symbol": "bicycle",
         "name": "Greenville Main Library",
         "styleUrl": "#icon-22",
         "styleHash": "-40f3a449",
@@ -488,6 +545,9 @@
         ]
       },
       "properties": {
+        "marker-color": "#0080c0",
+        "marker-size": "medium",
+        "marker-symbol": "bicycle",
         "name": "Landmark Bldg - Parking Garage",
         "styleUrl": "#icon-22",
         "styleHash": "-40f3a449",
@@ -505,6 +565,8 @@
         ]
       },
       "properties": {
+        "marker-color": "#0080c0",
+        "marker-symbol": "bicycle",
         "name": "McBee Station",
         "styleUrl": "#icon-22",
         "styleHash": "-40f3a449",
@@ -522,6 +584,8 @@
         ]
       },
       "properties": {
+        "marker-color": "#0080c0",
+        "marker-symbol": "bicycle",
         "name": "Swamp Rabbit Trail @ Linky Stone Park",
         "styleUrl": "#icon-22",
         "styleHash": "-40f3a449",
@@ -539,6 +603,8 @@
         ]
       },
       "properties": {
+        "marker-color": "#0080c0",
+        "marker-symbol": "bicycle",
         "name": "Academy Sports/Eyes in Motion",
         "styleUrl": "#icon-22",
         "styleHash": "-40f3a449",
@@ -556,6 +622,8 @@
         ]
       },
       "properties": {
+        "marker-color": "#0080c0",
+        "marker-symbol": "bicycle",
         "name": "Elliot Davis/ Broad Street",
         "styleUrl": "#icon-22",
         "styleHash": "-40f3a449",
@@ -573,6 +641,9 @@
         ]
       },
       "properties": {
+        "marker-color": "#ffff80",
+        "marker-size": "small",
+        "marker-symbol": "bicycle",
         "name": "Proposed - 2",
         "styleUrl": "#icon-157",
         "styleHash": "-5f32433a",
@@ -590,6 +661,9 @@
         ]
       },
       "properties": {
+        "marker-color": "#ffff80",
+        "marker-size": "small",
+        "marker-symbol": "bicycle",
         "name": "Proposed - 1",
         "styleUrl": "#icon-157",
         "styleHash": "-5f32433a",
@@ -607,6 +681,9 @@
         ]
       },
       "properties": {
+        "marker-color": "#ffff80",
+        "marker-size": "small",
+        "marker-symbol": "bicycle",
         "name": "Proposed - 1",
         "styleUrl": "#icon-157",
         "styleHash": "-5f32433a",
@@ -624,6 +701,9 @@
         ]
       },
       "properties": {
+        "marker-color": "#ffff80",
+        "marker-size": "small",
+        "marker-symbol": "bicycle",
         "name": "Proposed - 3",
         "styleUrl": "#icon-157",
         "styleHash": "-5f32433a",
@@ -641,6 +721,9 @@
         ]
       },
       "properties": {
+        "marker-color": "#ffff80",
+        "marker-size": "small",
+        "marker-symbol": "bicycle",
         "name": "Proposed - 1",
         "styleUrl": "#icon-157",
         "styleHash": "-5f32433a",
@@ -658,6 +741,9 @@
         ]
       },
       "properties": {
+        "marker-color": "#ffff80",
+        "marker-size": "small",
+        "marker-symbol": "bicycle",
         "name": "Proposed - 1",
         "styleUrl": "#icon-157",
         "styleHash": "-5f32433a",
@@ -675,6 +761,9 @@
         ]
       },
       "properties": {
+        "marker-color": "#ffff80",
+        "marker-size": "small",
+        "marker-symbol": "bicycle",
         "name": "Proposed - 1 ",
         "styleUrl": "#icon-157",
         "styleHash": "-5f32433a",
@@ -692,6 +781,9 @@
         ]
       },
       "properties": {
+        "marker-color": "#ffff80",
+        "marker-size": "small",
+        "marker-symbol": "bicycle",
         "name": "Proposed - 1",
         "styleUrl": "#icon-157",
         "styleHash": "-5f32433a",
@@ -709,6 +801,9 @@
         ]
       },
       "properties": {
+        "marker-color": "#ffff80",
+        "marker-size": "small",
+        "marker-symbol": "bicycle",
         "name": "Proposed - 1-2",
         "styleUrl": "#icon-157",
         "styleHash": "-5f32433a",
@@ -726,6 +821,9 @@
         ]
       },
       "properties": {
+        "marker-color": "#ffff80",
+        "marker-size": "small",
+        "marker-symbol": "bicycle",
         "name": "Proposed - 1 ",
         "styleUrl": "#icon-157",
         "styleHash": "-5f32433a",
@@ -743,6 +841,9 @@
         ]
       },
       "properties": {
+        "marker-color": "#ffff80",
+        "marker-size": "small",
+        "marker-symbol": "bicycle",
         "name": "Proposed - 1",
         "styleUrl": "#icon-157",
         "styleHash": "-5f32433a",
@@ -760,6 +861,9 @@
         ]
       },
       "properties": {
+        "marker-color": "#ffff80",
+        "marker-size": "small",
+        "marker-symbol": "bicycle",
         "name": "Proposed - 2",
         "styleUrl": "#icon-157",
         "styleHash": "-5f32433a",
@@ -777,6 +881,9 @@
         ]
       },
       "properties": {
+        "marker-color": "#ffff80",
+        "marker-size": "small",
+        "marker-symbol": "bicycle",
         "name": "Proposed - 2",
         "styleUrl": "#icon-157",
         "styleHash": "-5f32433a",
@@ -794,6 +901,9 @@
         ]
       },
       "properties": {
+        "marker-color": "#ffff80",
+        "marker-size": "small",
+        "marker-symbol": "bicycle",
         "name": "Proposed - 1-2",
         "styleUrl": "#icon-157",
         "styleHash": "-5f32433a",
@@ -811,6 +921,9 @@
         ]
       },
       "properties": {
+        "marker-color": "#ffff80",
+        "marker-size": "small",
+        "marker-symbol": "bicycle",
         "name": "Proposed - 1 ",
         "styleUrl": "#icon-157",
         "styleHash": "-5f32433a",
@@ -828,6 +941,9 @@
         ]
       },
       "properties": {
+        "marker-color": "#ffff80",
+        "marker-size": "small",
+        "marker-symbol": "bicycle",
         "name": "Proposed - 2-3",
         "styleUrl": "#icon-157",
         "styleHash": "-5f32433a",
@@ -845,6 +961,9 @@
         ]
       },
       "properties": {
+        "marker-color": "#ffff80",
+        "marker-size": "small",
+        "marker-symbol": "bicycle",
         "name": "Proposed - 1-2",
         "styleUrl": "#icon-157",
         "styleHash": "-5f32433a",
@@ -862,6 +981,9 @@
         ]
       },
       "properties": {
+        "marker-color": "#ffff80",
+        "marker-size": "small",
+        "marker-symbol": "bicycle",
         "name": "Proposed - 1",
         "styleUrl": "#icon-157",
         "styleHash": "-5f32433a",
@@ -879,6 +1001,8 @@
         ]
       },
       "properties": {
+        "marker-color": "#0080c0",
+        "marker-symbol": "bicycle",
         "name": "County Square",
         "styleUrl": "#icon-22",
         "styleHash": "-40f3a449",
@@ -896,6 +1020,8 @@
         ]
       },
       "properties": {
+        "marker-color": "#0080c0",
+        "marker-symbol": "bicycle",
         "name": "ISC Building At GMH",
         "styleUrl": "#icon-22",
         "styleHash": "-40f3a449",
@@ -913,6 +1039,8 @@
         ]
       },
       "properties": {
+        "marker-color": "#0080c0",
+        "marker-symbol": "bicycle",
         "name": "Regents Bank",
         "styleUrl": "#icon-22",
         "styleHash": "-40f3a449",
@@ -930,6 +1058,8 @@
         ]
       },
       "properties": {
+        "marker-color": "#0080c0",
+        "marker-symbol": "bicycle",
         "name": "Coffee to a Tea",
         "styleUrl": "#icon-22",
         "styleHash": "-40f3a449",
@@ -947,6 +1077,9 @@
         ]
       },
       "properties": {
+        "marker-color": "#ffff80",
+        "marker-size": "small",
+        "marker-symbol": "bicycle",
         "name": "Proposed",
         "styleUrl": "#icon-123",
         "styleHash": "-3662a8b9"
@@ -963,6 +1096,8 @@
         ]
       },
       "properties": {
+        "marker-color": "#0080c0",
+        "marker-symbol": "bicycle",
         "name": "Post Office",
         "styleUrl": "#icon-22",
         "styleHash": "-40f3a449",
