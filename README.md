@@ -25,6 +25,6 @@ Also check out the [2014 App Ideas](http://wiki.opendataday.org/2014/App_Ideas) 
 
 ## How to Participate
 
-It's *very* early planning days yet, but throw thoughts, questions, etc, into the [Issues](https://github.com/OpenUpstate/OpenDataDay2015/issues) section of this repo.
+Contribute to this repo. Join us at Openworks.
 
-Also, pop into the `#greenville` channel on irc.freenode.net to have a chat with `bigbluehat` about all this stuff.
+And join us in `#greenville` on irc.freenode.net
