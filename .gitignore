@@ -1,0 +1,8 @@
+.idea
+/bower_components
+/bower
+/vendor
+/node_modules
+.DS_Store
+Thumbs.db
+npm-debug.log
