@@ -1,0 +1,611 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Bicycle Parking--Greenville, SC</name>
+		<description><![CDATA[This map was created by BIKEVILLE to assist the City of Greenville in mapping current bicycle rack locations. Help us mark locations and we'll use the data to identify 'needs'/ locations for new bike parking.<br><br>HELP! 1) Sign-in to Google 2) Click 'Edit' above to start 3) Click on 'Satellite' in top right corner of map if you're not seeing the aerial view 4) Zoom in to a place where you know there's a bike rack; more accurate=better 5) Click on BLUE, 'upside down teardrop' marker in top left of map6) Click on map to 'mark' location of rack(s) 7) Use dialog box to add more details: # of racks, rack style or other specifics 8) IMPORTANT: Click 'Save' then 'Done' above <br><br>REQUEST! Is there a location you wish there was bike parking? Follow the steps above, but use dialog box to change marker color to RED.<br><br>VISIT! www.bikeville.org & greenvillesc.gov/ParkRec/Trails<br><br>E-newsletter sign-up!greenvillesc.gov/publicinfo_events/enews<br><br>SHARE! tinyurl.com/GreenvilleBikeRacks]]></description>
+		<Folder>
+			<name>Untitled layer</name>
+			<Placemark>
+				<styleUrl>#icon-22</styleUrl>
+				<name>City Hall</name>
+				<ExtendedData>
+				</ExtendedData>
+				<description><![CDATA[2 U-Racks in front of City Hall near Main Street.]]></description>
+				<Point>
+					<coordinates>-82.400138,34.848353,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-123</styleUrl>
+				<name>Request- City Hall</name>
+				<ExtendedData>
+				</ExtendedData>
+				<description><![CDATA[Request racks here, near the entrance to City Hall and under cover from rain.]]></description>
+				<Point>
+					<coordinates>-82.400308,34.848276,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-22</styleUrl>
+				<name>NW corner Main/College</name>
+				<ExtendedData>
+				</ExtendedData>
+				<description><![CDATA[2 U-racks; parks 4 bicycles]]></description>
+				<Point>
+					<coordinates>-82.397511,34.854252,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-22</styleUrl>
+				<name>Coffee Underground</name>
+				<ExtendedData>
+				</ExtendedData>
+				<description><![CDATA[1 U-rack on NE corner of Coffee/Main]]></description>
+				<Point>
+					<coordinates>-82.398418,34.85153,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-22</styleUrl>
+				<name>NE corner Main/Washington</name>
+				<ExtendedData>
+				</ExtendedData>
+				<description><![CDATA[1 U-Rack; parks 2 bicycles]]></description>
+				<Point>
+					<coordinates>-82.398744,34.85075400000001,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-22</styleUrl>
+				<name>Sushi Murisaki (side of)</name>
+				<ExtendedData>
+				</ExtendedData>
+				<description><![CDATA[1 U-rack; SW corner of Main/Washington]]></description>
+				<Point>
+					<coordinates>-82.399151,34.85071,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-22</styleUrl>
+				<name>Barley's Taproom</name>
+				<ExtendedData>
+				</ExtendedData>
+				<description><![CDATA[2 Post & Loop racks; parks 4 bicycles; At SE corner of W Washington St./S. Laurens St.]]></description>
+				<Point>
+					<coordinates>-82.399934,34.850935,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-169</styleUrl>
+				<name>NW corner of Main/McBee</name>
+				<ExtendedData>
+				</ExtendedData>
+				<description><![CDATA[1 U-Rack here?]]></description>
+				<Point>
+					<coordinates>-82.399609,34.849765,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-22</styleUrl>
+				<name>Jimmy John's Subs</name>
+				<ExtendedData>
+				</ExtendedData>
+				<description><![CDATA[2 U-racks; outside entrance to Jimmy John's; often used by JJ delivery persons]]></description>
+				<Point>
+					<coordinates>-82.39791,34.849233,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-22</styleUrl>
+				<name>Connolly's Irish Pub</name>
+				<ExtendedData>
+				</ExtendedData>
+				<description><![CDATA[1 U-rack outside of Connolly's Irish Pub on E Court St.]]></description>
+				<Point>
+					<coordinates>-82.399128,34.848218,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-22</styleUrl>
+				<name>Greenville News/ Main Street</name>
+				<ExtendedData>
+				</ExtendedData>
+				<description><![CDATA[2 U-racks on SE corner of Main/ Broad street in front of Greenville News, across from Peace Center]]></description>
+				<Point>
+					<coordinates>-82.40044,34.847367,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-22</styleUrl>
+				<name>Michellin on Main</name>
+				<ExtendedData>
+				</ExtendedData>
+				<description><![CDATA[2 U-racks at NW corner of Main/ Camperdown... good for Starbucks patrons]]></description>
+				<Point>
+					<coordinates>-82.401967,34.845279,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-22</styleUrl>
+				<name>Spill the Beans</name>
+				<ExtendedData>
+				</ExtendedData>
+				<description><![CDATA[1 U-rack on E side Main Street near Camperdown Way, Spill the Beans and Falls Park]]></description>
+				<Point>
+					<coordinates>-82.401841,34.845259,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-22</styleUrl>
+				<name>Main Street/ Falls Park</name>
+				<ExtendedData>
+				</ExtendedData>
+				<description><![CDATA[1 U-rack on Main Street near entrance to Falls Park/ SE corner of Main/Camperdown]]></description>
+				<Point>
+					<coordinates>-82.40208800000002,34.844992,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-22</styleUrl>
+				<name>Main Street</name>
+				<ExtendedData>
+				</ExtendedData>
+				<description><![CDATA[2 U-racks on Main Street]]></description>
+				<Point>
+					<coordinates>-82.403098,34.844545,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-22</styleUrl>
+				<name>Flour Field/ Greenville Drive</name>
+				<ExtendedData>
+				</ExtendedData>
+				<description><![CDATA[3 U-racks near NW entrance gate off of Main Street (and S. Markley St.)]]></description>
+				<Point>
+					<coordinates>-82.408781,34.842761,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-22</styleUrl>
+				<name>Flour Field/ Greenville Drive</name>
+				<ExtendedData>
+				</ExtendedData>
+				<description><![CDATA[2 U-racks near SE entrance to the stadium, across street from Shoeless Joe Jackson Museum, off of Field Street]]></description>
+				<Point>
+					<coordinates>-82.40753,34.841621,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-22</styleUrl>
+				<name>Hot Dog King</name>
+				<ExtendedData>
+				</ExtendedData>
+				<description><![CDATA[Small wave rack in front of Hot Dog King, across street from City Hall.  Holds 3 bicycles?]]></description>
+				<Point>
+					<coordinates>-82.400039,34.848243,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-22</styleUrl>
+				<name>Cook's Station/ Smoke on the Water</name>
+				<ExtendedData>
+				</ExtendedData>
+				<description><![CDATA[Wave rack near corner of Main/Augusta/River streets.  Holds 6+ bicycles]]></description>
+				<Point>
+					<coordinates>-82.404039,34.844394,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-22</styleUrl>
+				<name>Mast General Store</name>
+				<ExtendedData>
+				</ExtendedData>
+				<description><![CDATA[Wave rack on sidewalk/ pedestrian space near entrance to Mast General Store; holds 4+ bicycles]]></description>
+				<Point>
+					<coordinates>-82.398472,34.852081,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-22</styleUrl>
+				<name>TTR Bikes</name>
+				<ExtendedData>
+				</ExtendedData>
+				<description><![CDATA[Comb rack in front TTR Bikes; accomodates 10+ bicycles]]></description>
+				<Point>
+					<coordinates>-82.408355,34.852785,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-22</styleUrl>
+				<name>Carolina Triathalon</name>
+				<ExtendedData>
+				</ExtendedData>
+				<description><![CDATA[4 small comb racks in front of Carolina Tri, across st. from Compadres Mexican Grill; holds 8 bicycles?]]></description>
+				<Point>
+					<coordinates>-82.408341,34.843482,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-22</styleUrl>
+				<name>Old Rail Station</name>
+				<ExtendedData>
+				</ExtendedData>
+				<description><![CDATA[wheel slot bicycle rack]]></description>
+				<Point>
+					<coordinates>-82.255229,34.736882,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-22</styleUrl>
+				<name>Simpsonville Library</name>
+				<ExtendedData>
+				</ExtendedData>
+				<description><![CDATA[wave bicycle rack]]></description>
+				<Point>
+					<coordinates>-82.260411,34.747876,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-22</styleUrl>
+				<name>Target/Starbucks</name>
+				<ExtendedData>
+				</ExtendedData>
+				<description><![CDATA[bicycle rack]]></description>
+				<Point>
+					<coordinates>-82.259652,34.705829,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-22</styleUrl>
+				<name>Whole Foods</name>
+				<ExtendedData>
+				</ExtendedData>
+				<description><![CDATA[mobile wheel slot bicycle rack]]></description>
+				<Point>
+					<coordinates>-82.301237,34.82607,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-22</styleUrl>
+				<name>Simpsonville Park</name>
+				<ExtendedData>
+				</ExtendedData>
+				<description><![CDATA[wheel slot bicycle rack for 20 inch wheels]]></description>
+				<Point>
+					<coordinates>-82.25031,34.741313,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-22</styleUrl>
+				<name>Greenville Main Library</name>
+				<ExtendedData>
+				</ExtendedData>
+				<description><![CDATA[bicycle rack]]></description>
+				<Point>
+					<coordinates>-82.40164,34.85698,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-22</styleUrl>
+				<name>Landmark Bldg - Parking Garage</name>
+				<ExtendedData>
+				</ExtendedData>
+				<description><![CDATA[There is a large wheel slot rack in the NW corner of the very lowest level of the parking garage.]]></description>
+				<Point>
+					<coordinates>-82.398252,34.85512,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-22</styleUrl>
+				<name>McBee Station</name>
+				<ExtendedData>
+				</ExtendedData>
+				<description><![CDATA[1 wave rack @ Publix entrance; 5 bicycles]]></description>
+				<Point>
+					<coordinates>-82.395058,34.847623,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-22</styleUrl>
+				<name>Swamp Rabbit Trail @ Linky Stone Park</name>
+				<ExtendedData>
+				</ExtendedData>
+				<description><![CDATA[2 wave racks beside trail under 123 bridge]]></description>
+				<Point>
+					<coordinates>-82.405765,34.848959,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-22</styleUrl>
+				<name>Academy Sports/Eyes in Motion</name>
+				<ExtendedData>
+				</ExtendedData>
+				<description><![CDATA[3 U-racks]]></description>
+				<Point>
+					<coordinates>-82.305778,34.829256,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-22</styleUrl>
+				<name>Elliot Davis/ Broad Street</name>
+				<ExtendedData>
+				</ExtendedData>
+				<description><![CDATA[1 U-rack near entrance to Elliot Davis Building on Broad Street, near Church St. overpass.]]></description>
+				<Point>
+					<coordinates>-82.397194,34.846525,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-157</styleUrl>
+				<name>Proposed - 2</name>
+				<ExtendedData>
+				</ExtendedData>
+				<description><![CDATA[2 U-racks near entrance to Spill the Beans, would serve Falls Park]]></description>
+				<Point>
+					<coordinates>-82.401719,34.845107,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-157</styleUrl>
+				<name>Proposed - 1</name>
+				<ExtendedData>
+				</ExtendedData>
+				<description><![CDATA[1 U-rack on Main Street, in front of Mary's Resturaunt.]]></description>
+				<Point>
+					<coordinates>-82.402675,34.84468,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-157</styleUrl>
+				<name>Proposed - 1</name>
+				<ExtendedData>
+				</ExtendedData>
+				<description><![CDATA[1 U-rack on Main Street, near Blueberry Frog]]></description>
+				<Point>
+					<coordinates>-82.403008,34.844701,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-157</styleUrl>
+				<name>Proposed - 3</name>
+				<ExtendedData>
+				</ExtendedData>
+				<description><![CDATA[3 U-racks.  Shoeless Joe Jackson Plaza.  Replace non-conforming wave rack.]]></description>
+				<Point>
+					<coordinates>-82.404043,34.844386,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-157</styleUrl>
+				<name>Proposed - 1</name>
+				<ExtendedData>
+				</ExtendedData>
+				<description><![CDATA[1 U-rack; S. Main St., near MAC]]></description>
+				<Point>
+					<coordinates>-82.404963,34.844222,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-157</styleUrl>
+				<name>Proposed - 1</name>
+				<ExtendedData>
+				</ExtendedData>
+				<description><![CDATA[1 U-rack; Augusta St. near MAC]]></description>
+				<Point>
+					<coordinates>-82.404663,34.844147,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-157</styleUrl>
+				<name>Proposed - 1 </name>
+				<ExtendedData>
+				</ExtendedData>
+				<description><![CDATA[1 U-rack; South Main Street]]></description>
+				<Point>
+					<coordinates>-82.405289,34.844318,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-157</styleUrl>
+				<name>Proposed - 1</name>
+				<ExtendedData>
+				</ExtendedData>
+				<description><![CDATA[1 U-rack, in front of new 'Custom House']]></description>
+				<Point>
+					<coordinates>-82.406735,34.84391000000001,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-157</styleUrl>
+				<name>Proposed - 1-2</name>
+				<ExtendedData>
+				</ExtendedData>
+				<description><![CDATA[1 U-rack at City of Greenville Parking Services]]></description>
+				<Point>
+					<coordinates>-82.410525,34.842641,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-157</styleUrl>
+				<name>Proposed - 1 </name>
+				<ExtendedData>
+				</ExtendedData>
+				<description><![CDATA[1 U-rack in front of Compadres Mexican Grill]]></description>
+				<Point>
+					<coordinates>-82.408175,34.84331,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-157</styleUrl>
+				<name>Proposed - 1</name>
+				<ExtendedData>
+				</ExtendedData>
+				<description><![CDATA[1 U-rack on River Street, at entrance to Innovate Building]]></description>
+				<Point>
+					<coordinates>-82.404067,34.846881,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-157</styleUrl>
+				<name>Proposed - 2</name>
+				<ExtendedData>
+				</ExtendedData>
+				<description><![CDATA[2 U-racks at Main & Broad]]></description>
+				<Point>
+					<coordinates>-82.400495,34.847693,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-157</styleUrl>
+				<name>Proposed - 2</name>
+				<ExtendedData>
+				</ExtendedData>
+				<description><![CDATA[2 U-racks below High Cotton/ Under Main Street-- would require new concrete/ stone pad.]]></description>
+				<Point>
+					<coordinates>-82.401681,34.845742,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-157</styleUrl>
+				<name>Proposed - 1-2</name>
+				<ExtendedData>
+				</ExtendedData>
+				<description><![CDATA[1-2 U-racks somewhere at or near the Liberty Bridge east plaza, exact location TBD.]]></description>
+				<Point>
+					<coordinates>-82.400566,34.844754,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-157</styleUrl>
+				<name>Proposed - 1 </name>
+				<ExtendedData>
+				</ExtendedData>
+				<description><![CDATA[1 U-rack to replace nonconforming wave rack.]]></description>
+				<Point>
+					<coordinates>-82.400036,34.848235,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-157</styleUrl>
+				<name>Proposed - 2-3</name>
+				<ExtendedData>
+				</ExtendedData>
+				<description><![CDATA[2-3 U-racks or Post & Loop racks to replace large wave rack near Mast General Store]]></description>
+				<Point>
+					<coordinates>-82.39848,34.852039,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-157</styleUrl>
+				<name>Proposed - 1-2</name>
+				<ExtendedData>
+				</ExtendedData>
+				<description><![CDATA[1-2 U-racks at Hyatt Plaza, exact location TBD.]]></description>
+				<Point>
+					<coordinates>-82.39769,34.853127,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-157</styleUrl>
+				<name>Proposed - 1</name>
+				<ExtendedData>
+				</ExtendedData>
+				<description><![CDATA[1 U-rack, near Lazy Goat/ Hampton Inn]]></description>
+				<Point>
+					<coordinates>-82.40249,34.846319,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-22</styleUrl>
+				<name>County Square</name>
+				<ExtendedData>
+				</ExtendedData>
+				<description><![CDATA[2 U-Racks near west entrance]]></description>
+				<Point>
+					<coordinates>-82.403466,34.841279,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-22</styleUrl>
+				<name>ISC Building At GMH</name>
+				<ExtendedData>
+				</ExtendedData>
+				<description><![CDATA[1 comb bike rack which will hold approximately 2 bikes]]></description>
+				<Point>
+					<coordinates>-82.409591,34.821442,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-22</styleUrl>
+				<name>Regents Bank</name>
+				<ExtendedData>
+				</ExtendedData>
+				<description><![CDATA[2 new U-racks at bank (not sure whether the bank is open yet 10/19)]]></description>
+				<Point>
+					<coordinates>-82.393486,34.847634,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-22</styleUrl>
+				<name>Coffee to a Tea</name>
+				<ExtendedData>
+				</ExtendedData>
+				<description><![CDATA[Wave rack near bottom of steps that come down from corner of Augusta & Main.]]></description>
+				<Point>
+					<coordinates>-82.403991,34.84404000000001,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-123</styleUrl>
+				<name>Proposed</name>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-82.401634,34.845191,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-22</styleUrl>
+				<name>Post Office</name>
+				<ExtendedData>
+				</ExtendedData>
+				<description><![CDATA[Bike-shaped bike rack]]></description>
+				<Point>
+					<coordinates>-82.408344,34.854519,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Style id='icon-123'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-157'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-169'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-22'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+	</Document>
+</kml>
