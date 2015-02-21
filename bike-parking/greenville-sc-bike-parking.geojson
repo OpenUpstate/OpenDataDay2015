@@ -1,0 +1,973 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.400138,
+          34.848353,
+          0
+        ]
+      },
+      "properties": {
+        "name": "City Hall",
+        "styleUrl": "#icon-22",
+        "styleHash": "-40f3a449",
+        "description": "2 U-Racks in front of City Hall near Main Street."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.400308,
+          34.848276,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Request- City Hall",
+        "styleUrl": "#icon-123",
+        "styleHash": "-3662a8b9",
+        "description": "Request racks here, near the entrance to City Hall and under cover from rain."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.397511,
+          34.854252,
+          0
+        ]
+      },
+      "properties": {
+        "name": "NW corner Main/College",
+        "styleUrl": "#icon-22",
+        "styleHash": "-40f3a449",
+        "description": "2 U-racks; parks 4 bicycles"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.398418,
+          34.85153,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Coffee Underground",
+        "styleUrl": "#icon-22",
+        "styleHash": "-40f3a449",
+        "description": "1 U-rack on NE corner of Coffee/Main"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.398744,
+          34.85075400000001,
+          0
+        ]
+      },
+      "properties": {
+        "name": "NE corner Main/Washington",
+        "styleUrl": "#icon-22",
+        "styleHash": "-40f3a449",
+        "description": "1 U-Rack; parks 2 bicycles"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.399151,
+          34.85071,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Sushi Murisaki (side of)",
+        "styleUrl": "#icon-22",
+        "styleHash": "-40f3a449",
+        "description": "1 U-rack; SW corner of Main/Washington"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.399934,
+          34.850935,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Barley's Taproom",
+        "styleUrl": "#icon-22",
+        "styleHash": "-40f3a449",
+        "description": "2 Post & Loop racks; parks 4 bicycles; At SE corner of W Washington St./S. Laurens St."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.399609,
+          34.849765,
+          0
+        ]
+      },
+      "properties": {
+        "name": "NW corner of Main/McBee",
+        "styleUrl": "#icon-169",
+        "styleHash": "-b6e557b",
+        "description": "1 U-Rack here?"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.39791,
+          34.849233,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Jimmy John's Subs",
+        "styleUrl": "#icon-22",
+        "styleHash": "-40f3a449",
+        "description": "2 U-racks; outside entrance to Jimmy John's; often used by JJ delivery persons"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.399128,
+          34.848218,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Connolly's Irish Pub",
+        "styleUrl": "#icon-22",
+        "styleHash": "-40f3a449",
+        "description": "1 U-rack outside of Connolly's Irish Pub on E Court St."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.40044,
+          34.847367,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Greenville News/ Main Street",
+        "styleUrl": "#icon-22",
+        "styleHash": "-40f3a449",
+        "description": "2 U-racks on SE corner of Main/ Broad street in front of Greenville News, across from Peace Center"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.401967,
+          34.845279,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Michellin on Main",
+        "styleUrl": "#icon-22",
+        "styleHash": "-40f3a449",
+        "description": "2 U-racks at NW corner of Main/ Camperdown... good for Starbucks patrons"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.401841,
+          34.845259,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Spill the Beans",
+        "styleUrl": "#icon-22",
+        "styleHash": "-40f3a449",
+        "description": "1 U-rack on E side Main Street near Camperdown Way, Spill the Beans and Falls Park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.40208800000002,
+          34.844992,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Main Street/ Falls Park",
+        "styleUrl": "#icon-22",
+        "styleHash": "-40f3a449",
+        "description": "1 U-rack on Main Street near entrance to Falls Park/ SE corner of Main/Camperdown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.403098,
+          34.844545,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Main Street",
+        "styleUrl": "#icon-22",
+        "styleHash": "-40f3a449",
+        "description": "2 U-racks on Main Street"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.408781,
+          34.842761,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Flour Field/ Greenville Drive",
+        "styleUrl": "#icon-22",
+        "styleHash": "-40f3a449",
+        "description": "3 U-racks near NW entrance gate off of Main Street (and S. Markley St.)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.40753,
+          34.841621,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Flour Field/ Greenville Drive",
+        "styleUrl": "#icon-22",
+        "styleHash": "-40f3a449",
+        "description": "2 U-racks near SE entrance to the stadium, across street from Shoeless Joe Jackson Museum, off of Field Street"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.400039,
+          34.848243,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Hot Dog King",
+        "styleUrl": "#icon-22",
+        "styleHash": "-40f3a449",
+        "description": "Small wave rack in front of Hot Dog King, across street from City Hall.  Holds 3 bicycles?"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.404039,
+          34.844394,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Cook's Station/ Smoke on the Water",
+        "styleUrl": "#icon-22",
+        "styleHash": "-40f3a449",
+        "description": "Wave rack near corner of Main/Augusta/River streets.  Holds 6+ bicycles"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.398472,
+          34.852081,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Mast General Store",
+        "styleUrl": "#icon-22",
+        "styleHash": "-40f3a449",
+        "description": "Wave rack on sidewalk/ pedestrian space near entrance to Mast General Store; holds 4+ bicycles"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.408355,
+          34.852785,
+          0
+        ]
+      },
+      "properties": {
+        "name": "TTR Bikes",
+        "styleUrl": "#icon-22",
+        "styleHash": "-40f3a449",
+        "description": "Comb rack in front TTR Bikes; accomodates 10+ bicycles"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.408341,
+          34.843482,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Carolina Triathalon",
+        "styleUrl": "#icon-22",
+        "styleHash": "-40f3a449",
+        "description": "4 small comb racks in front of Carolina Tri, across st. from Compadres Mexican Grill; holds 8 bicycles?"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.255229,
+          34.736882,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Old Rail Station",
+        "styleUrl": "#icon-22",
+        "styleHash": "-40f3a449",
+        "description": "wheel slot bicycle rack"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.260411,
+          34.747876,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Simpsonville Library",
+        "styleUrl": "#icon-22",
+        "styleHash": "-40f3a449",
+        "description": "wave bicycle rack"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.259652,
+          34.705829,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Target/Starbucks",
+        "styleUrl": "#icon-22",
+        "styleHash": "-40f3a449",
+        "description": "bicycle rack"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.301237,
+          34.82607,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Whole Foods",
+        "styleUrl": "#icon-22",
+        "styleHash": "-40f3a449",
+        "description": "mobile wheel slot bicycle rack"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.25031,
+          34.741313,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Simpsonville Park",
+        "styleUrl": "#icon-22",
+        "styleHash": "-40f3a449",
+        "description": "wheel slot bicycle rack for 20 inch wheels"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.40164,
+          34.85698,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Greenville Main Library",
+        "styleUrl": "#icon-22",
+        "styleHash": "-40f3a449",
+        "description": "bicycle rack"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.398252,
+          34.85512,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Landmark Bldg - Parking Garage",
+        "styleUrl": "#icon-22",
+        "styleHash": "-40f3a449",
+        "description": "There is a large wheel slot rack in the NW corner of the very lowest level of the parking garage."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.395058,
+          34.847623,
+          0
+        ]
+      },
+      "properties": {
+        "name": "McBee Station",
+        "styleUrl": "#icon-22",
+        "styleHash": "-40f3a449",
+        "description": "1 wave rack @ Publix entrance; 5 bicycles"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.405765,
+          34.848959,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Swamp Rabbit Trail @ Linky Stone Park",
+        "styleUrl": "#icon-22",
+        "styleHash": "-40f3a449",
+        "description": "2 wave racks beside trail under 123 bridge"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.305778,
+          34.829256,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Academy Sports/Eyes in Motion",
+        "styleUrl": "#icon-22",
+        "styleHash": "-40f3a449",
+        "description": "3 U-racks"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.397194,
+          34.846525,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Elliot Davis/ Broad Street",
+        "styleUrl": "#icon-22",
+        "styleHash": "-40f3a449",
+        "description": "1 U-rack near entrance to Elliot Davis Building on Broad Street, near Church St. overpass."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.401719,
+          34.845107,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Proposed - 2",
+        "styleUrl": "#icon-157",
+        "styleHash": "-5f32433a",
+        "description": "2 U-racks near entrance to Spill the Beans, would serve Falls Park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.402675,
+          34.84468,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Proposed - 1",
+        "styleUrl": "#icon-157",
+        "styleHash": "-5f32433a",
+        "description": "1 U-rack on Main Street, in front of Mary's Resturaunt."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.403008,
+          34.844701,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Proposed - 1",
+        "styleUrl": "#icon-157",
+        "styleHash": "-5f32433a",
+        "description": "1 U-rack on Main Street, near Blueberry Frog"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.404043,
+          34.844386,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Proposed - 3",
+        "styleUrl": "#icon-157",
+        "styleHash": "-5f32433a",
+        "description": "3 U-racks.  Shoeless Joe Jackson Plaza.  Replace non-conforming wave rack."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.404963,
+          34.844222,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Proposed - 1",
+        "styleUrl": "#icon-157",
+        "styleHash": "-5f32433a",
+        "description": "1 U-rack; S. Main St., near MAC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.404663,
+          34.844147,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Proposed - 1",
+        "styleUrl": "#icon-157",
+        "styleHash": "-5f32433a",
+        "description": "1 U-rack; Augusta St. near MAC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.405289,
+          34.844318,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Proposed - 1 ",
+        "styleUrl": "#icon-157",
+        "styleHash": "-5f32433a",
+        "description": "1 U-rack; South Main Street"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.406735,
+          34.84391000000001,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Proposed - 1",
+        "styleUrl": "#icon-157",
+        "styleHash": "-5f32433a",
+        "description": "1 U-rack, in front of new 'Custom House'"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.410525,
+          34.842641,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Proposed - 1-2",
+        "styleUrl": "#icon-157",
+        "styleHash": "-5f32433a",
+        "description": "1 U-rack at City of Greenville Parking Services"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.408175,
+          34.84331,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Proposed - 1 ",
+        "styleUrl": "#icon-157",
+        "styleHash": "-5f32433a",
+        "description": "1 U-rack in front of Compadres Mexican Grill"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.404067,
+          34.846881,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Proposed - 1",
+        "styleUrl": "#icon-157",
+        "styleHash": "-5f32433a",
+        "description": "1 U-rack on River Street, at entrance to Innovate Building"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.400495,
+          34.847693,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Proposed - 2",
+        "styleUrl": "#icon-157",
+        "styleHash": "-5f32433a",
+        "description": "2 U-racks at Main & Broad"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.401681,
+          34.845742,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Proposed - 2",
+        "styleUrl": "#icon-157",
+        "styleHash": "-5f32433a",
+        "description": "2 U-racks below High Cotton/ Under Main Street-- would require new concrete/ stone pad."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.400566,
+          34.844754,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Proposed - 1-2",
+        "styleUrl": "#icon-157",
+        "styleHash": "-5f32433a",
+        "description": "1-2 U-racks somewhere at or near the Liberty Bridge east plaza, exact location TBD."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.400036,
+          34.848235,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Proposed - 1 ",
+        "styleUrl": "#icon-157",
+        "styleHash": "-5f32433a",
+        "description": "1 U-rack to replace nonconforming wave rack."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.39848,
+          34.852039,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Proposed - 2-3",
+        "styleUrl": "#icon-157",
+        "styleHash": "-5f32433a",
+        "description": "2-3 U-racks or Post & Loop racks to replace large wave rack near Mast General Store"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.39769,
+          34.853127,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Proposed - 1-2",
+        "styleUrl": "#icon-157",
+        "styleHash": "-5f32433a",
+        "description": "1-2 U-racks at Hyatt Plaza, exact location TBD."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.40249,
+          34.846319,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Proposed - 1",
+        "styleUrl": "#icon-157",
+        "styleHash": "-5f32433a",
+        "description": "1 U-rack, near Lazy Goat/ Hampton Inn"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.403466,
+          34.841279,
+          0
+        ]
+      },
+      "properties": {
+        "name": "County Square",
+        "styleUrl": "#icon-22",
+        "styleHash": "-40f3a449",
+        "description": "2 U-Racks near west entrance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.409591,
+          34.821442,
+          0
+        ]
+      },
+      "properties": {
+        "name": "ISC Building At GMH",
+        "styleUrl": "#icon-22",
+        "styleHash": "-40f3a449",
+        "description": "1 comb bike rack which will hold approximately 2 bikes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.393486,
+          34.847634,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Regents Bank",
+        "styleUrl": "#icon-22",
+        "styleHash": "-40f3a449",
+        "description": "2 new U-racks at bank (not sure whether the bank is open yet 10/19)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.403991,
+          34.84404000000001,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Coffee to a Tea",
+        "styleUrl": "#icon-22",
+        "styleHash": "-40f3a449",
+        "description": "Wave rack near bottom of steps that come down from corner of Augusta & Main."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.401634,
+          34.845191,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Proposed",
+        "styleUrl": "#icon-123",
+        "styleHash": "-3662a8b9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.408344,
+          34.854519,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Post Office",
+        "styleUrl": "#icon-22",
+        "styleHash": "-40f3a449",
+        "description": "Bike-shaped bike rack"
+      }
+    }
+  ]
+}
