@@ -8,7 +8,8 @@
   <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.3/leaflet.css" />
 
   <script src="//cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.3/leaflet.js"></script>
-  <script src="//cdnjs.cloudflare.com/ajax/libs/vue/0.11.5/vue.min.js"></script>
+  <script src="//cdnjs.cloudflare.com/ajax/libs/vue/1.0.21/vue.min.js"></script>
+  <script src="//cdnjs.cloudflare.com/ajax/libs/vue-resource/0.7.0/vue-resource.min.js"></script>
   <style>
     body {
       padding: 0;
@@ -67,13 +68,12 @@
       },
       methods: {
         loadFeatures: function() {
-          var xhr = new XMLHttpRequest();
-          var self = this;
-          xhr.open('GET', 'greenville-sc-bike-parking.geojson');
-          xhr.onload = function() {
-            self.features = JSON.parse(xhr.responseText);
-          };
-          xhr.send();
+          this.$http({
+            method: 'GET',
+            url: 'greenville-sc-bike-parking.geojson'
+          }).then(function(resp) {
+            this.$set('features', resp.data)
+          }).catch(console.log.bind(console));
         }
       }
     });
